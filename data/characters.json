@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Iron Man",
+    "animeId": 1
+  },
+  {
+    "id": 2,
+    "name": "Captain America",
+    "animeId": 1
+  },
+  {
+    "id": 3,
+    "name": "Light Yagami",
+    "animeId": 2
+  },
+  {
+    "id": 4,
+    "name": "L Lawliet",
+    "animeId": 2
+  },
+  {
+    "id": 5,
+    "name": "Chaos",
+    "animeId": 3
+  },
+  {
+    "id": 6,
+    "name": "Iris Irine",
+    "animeId": 3
+  }
+]

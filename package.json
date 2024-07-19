@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-anime-project",
+  "version": "1.0.0",
+  "description": "Bienvenidos al proyecto de introducción a Node.js enfocado en la industria del anime. Este proyecto está diseñado para aplicar los conceptos básicos de Node.js, Express, promesas, y la diferencia entre dependencias de desarrollo y de producción. Crearás una API RESTful que interactúa con el sistema de archivos en lugar de una base de datos.",
+  "main": "index.js",
+  "type": "module",
+
+  "scripts": {
+    "dev": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Avengers",
+    "genre": "Superheroes",
+    "studioId": 1
+  },
+  {
+    "id": 2,
+    "title": "Death Note",
+    "genre": "Anime",
+    "studioId": 2
+  },
+  {
+    "id": 3,
+    "title": "Ragnarok",
+    "genre": "Anime",
+    "studioId": 3
+  }
+]
